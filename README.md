@@ -1,3 +1,3 @@
- - Each day has different delight!
+ - Each day has different delight in it!!
 
  - Contact: rambotty@gmail.com
