@@ -1,12 +1,14 @@
-## Hi, I'm Ramhee 👋
+## Hi, I'm Ramie 👋 in Toronto
 
-I am currently in Toronto.
+AI Engineer focused on building production AI systems across LLMs, VLMs, RAG, OCR, and speech AI.
 
-I am an AI Engineer specialising in LLM/VLM systems, RAG, speech AI, and production AI pipelines.
+**AI/ML:** PyTorch, Hugging Face, vLLM, LangChain, LangGraph, QLoRA, Whisper
+**Backend:** Python, FastAPI, PostgreSQL, Redis, Celery, REST APIs
+**Cloud & Infra:** AWS, Docker, Linux, S3, EC2, Supabase
 
-I have experience building and deploying AI systems with Python, FastAPI, PyTorch, vLLM, Docker, and cloud infrastructure.
+Currently interested in production LLM systems, agentic workflows, multimodal AI, and efficient model serving.
 
-- 🌐 Portfolio: https://ramieeee.com
+- 🌐 Projects: https://ramieeee.com
 - 💼 LinkedIn: https://linkedin.com/in/ramieeee
 - ✉️ Contact: rambotty@gmail.com
 - 📝 Blog: https://ramieeee.hashnode.dev
