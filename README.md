@@ -1,5 +1,12 @@
- - Each day has different delight in it!!
+## Hi, I'm Ramhee 👋
 
- - Contact: rambotty@gmail.com
+I am currently in Toronto.
 
- - Blog: https://ramieeee.hashnode.dev
+I am an AI Engineer specialising in LLM/VLM systems, RAG, speech AI, and production AI pipelines.
+
+I have experience building and deploying AI systems with Python, FastAPI, PyTorch, vLLM, Docker, and cloud infrastructure.
+
+- 🌐 Portfolio: https://ramieeee.com
+- 💼 LinkedIn: https://linkedin.com/in/ramieeee
+- ✉️ Contact: rambotty@gmail.com
+- 📝 Blog: https://ramieeee.hashnode.dev
