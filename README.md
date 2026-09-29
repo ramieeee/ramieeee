@@ -1,4 +1,4 @@
-## Hi, I'm Ramie 👋 in Toronto
+## Hi, I'm Ramhee 👋 in Toronto
 
 AI Engineer focused on building production AI systems across LLMs, VLMs, RAG, OCR, and speech AI.
 
